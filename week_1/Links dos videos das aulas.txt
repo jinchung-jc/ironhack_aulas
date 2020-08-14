@@ -1,0 +1,26 @@
+Replays
+Day 1: https://ironhack.zoom.us/rec/share/9ehEFZrd51FOQKfdwh3iaK5wOY_heaa8h3UarPMEzhqSLt0iMOun2qtDAJehQVNe
+
+- Apresentações Pessoais
+
+- Zoom Intro
+
+- How the Course Works
+
+Day 2: https://ironhack.zoom.us/rec/share/vOZMKLPRrkVOYK_x53vyAYQgLIHLaaa82yQeqaFZmklXtp0YWSXDjD3HUd2zQCow
+
+- Terminal Recap
+
+- Python Recap (For loops, while loops, if conditions, int, str, float, bool)
+
+Day 3: https://ironhack.zoom.us/rec/share/2I9tJeD-90JJba_KzGf6ZKd9G5Xbaaa803IY_KAJxB1YXStFceZe7nu-v3bPPs_z
+
+- Tuples (Creating, accessing, running through, iterators)
+
+- Dicts
+
+- Sets
+
+Apresentações Projeto Final - Part Time Janeiro
+
+- https://ironhack.zoom.us/rec/share/9JBJcujZ3WFOH6_h7FPSXYcvRdz4aaa80HAbqfZczBwRh0srDPXZJLfknlYfTy
