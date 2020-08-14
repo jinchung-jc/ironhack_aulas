@@ -1,0 +1,14 @@
+Replays
+Day 1: https://ironhack.zoom.us/rec/share/yO4kK4-u53tOfNL3uXvTZYgGIMPaeaa80CAb_PpYz0kw4dBdBrdEHqzUpWETdZLk
+
+- String Operations
+
+Day 2: https://ironhack.zoom.us/rec/share/vMNeaJff5mhLUJHS00LCc7EsAYq7T6a82yQf_vMKyE128Mj_PuFiNtsmPGv6CfHj
+
+- Review Dicts
+
+- Intro to Regex
+
+Day 3: 
+
+- List Comprehension
